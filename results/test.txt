@@ -1,0 +1,28 @@
+Train Samples: 48000, Test Samples: 12000
+Number of Trees: 128, Random State: 51, Max Depth: None
+
+Train Accuracy: 1.0000
+Test Accuracy: 0.9653
+OOB Score: 0.9625
+
+Feature  Importance
+   Noi4    0.009714
+   Noi3    0.009939
+   Noi5    0.009975
+   Noi1    0.029062
+   Noi2    0.038330
+  Inf10    0.038582
+   Inf4    0.039184
+  Inf11    0.040795
+  Inf12    0.041880
+   Inf9    0.044484
+   Inf3    0.044663
+   Inf6    0.045372
+   Inf8    0.049750
+   Inf2    0.052021
+   Inf5    0.052198
+  Inf14    0.062434
+  Inf15    0.065659
+   Inf1    0.070785
+  Inf13    0.112661
+   Inf7    0.142509
